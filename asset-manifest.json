@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/home/antoniovargas/DEVELOP/React/curso-react-intro/build/static/css/main.ab9e82b2.css",
-    "main.js": "/home/antoniovargas/DEVELOP/React/curso-react-intro/build/static/js/main.96168032.js",
-    "index.html": "/home/antoniovargas/DEVELOP/React/curso-react-intro/build/index.html",
-    "static/media/platzi.webp": "/home/antoniovargas/DEVELOP/React/curso-react-intro/build/static/media/platzi.5b31ce99c22184cfdc82.webp",
-    "static/media/plus-circle.svg": "/home/antoniovargas/DEVELOP/React/curso-react-intro/build/static/media/plus-circle.666fac1665253fb5d5136e747a455b84.svg",
-    "main.ab9e82b2.css.map": "/home/antoniovargas/DEVELOP/React/curso-react-intro/build/static/css/main.ab9e82b2.css.map",
-    "main.96168032.js.map": "/home/antoniovargas/DEVELOP/React/curso-react-intro/build/static/js/main.96168032.js.map"
+    "main.css": "/ReactCourse-Basic/static/css/main.ab9e82b2.css",
+    "main.js": "/ReactCourse-Basic/static/js/main.43323c27.js",
+    "static/media/platzi.webp": "/ReactCourse-Basic/static/media/platzi.5b31ce99c22184cfdc82.webp",
+    "index.html": "/ReactCourse-Basic/index.html",
+    "static/media/plus-circle.svg": "/ReactCourse-Basic/static/media/plus-circle.666fac1665253fb5d5136e747a455b84.svg",
+    "main.ab9e82b2.css.map": "/ReactCourse-Basic/static/css/main.ab9e82b2.css.map",
+    "main.43323c27.js.map": "/ReactCourse-Basic/static/js/main.43323c27.js.map"
   },
   "entrypoints": [
     "static/css/main.ab9e82b2.css",
-    "static/js/main.96168032.js"
+    "static/js/main.43323c27.js"
   ]
 }
